@@ -1,7 +1,7 @@
 import React from 'react';
 import { ChevronDown } from 'lucide-react';
 import SocialLinks from './SocialLinks';
-import Img from '../assets/plain-background-designify.png';
+import Img from '../assets/aniks-dev-vibe.jpg';
 
 const Hero = () => {
 
